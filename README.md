@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a projects Manager at InfoChain Club
+- 🔭 I’m currently a Software engineering student
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on interesting projects in web developement
 - 💬 Ask Me Anything 
